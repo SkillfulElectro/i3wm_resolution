@@ -5,6 +5,7 @@ install :
 
 ```shell
 $ git clone https://github.com/SkillfulElectro/i3wm_resolution.git
+$ cd i3wm_resolution
 $ make
 ```
 make sure to add it as your startup app , or everytime you reboot
